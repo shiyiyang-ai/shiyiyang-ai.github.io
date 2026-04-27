@@ -1,16 +1,18 @@
 ---
 layout: single
-title: "About"
+title: ""
 permalink: /
 ---
 
 # 👋 Hi, I'm Shiyi Yang
 
-Building **trustworthy and robust AI systems in the era of LLMs**.
+Postdoctoral researcher working on **trustworthy and robust AI systems in the era of large language models (LLMs)**.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research
+
+My research focuses on:
 
 - Recommender Systems Security  
 - LLM-based Attacks and Defenses  
@@ -21,7 +23,15 @@ Building **trustworthy and robust AI systems in the era of LLMs**.
 
 ## 📝 Selected Publications
 
-- DrunkAgent
+- GuardAgent: Detecting Promotion-driven Attacks  
+- (add more…)
+
+---
+
+## 📰 News
+
+- [2026] Paper submitted to CIKM  
+- [2025] Working on causal detection for agentic systems  
 
 ---
 
