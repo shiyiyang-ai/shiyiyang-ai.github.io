@@ -6,11 +6,17 @@ permalink: /
 
 # 👋 Hi, I'm Shiyi Yang
 
-Postdoctoral researcher working on **trustworthy and robust AI systems in the era of large language models (LLMs)**.
+Building **trustworthy and secure AI systems in the era of LLMs**.
+
+---
+
+### 🔗 Navigation
+**[Research](#research)** · **[Publications](#publications)** · **[News](#news)** · **[Contact](#contact)**
 
 ---
 
 ## 🔬 Research
+<a id="research"></a>
 
 My research focuses on:
 
@@ -22,6 +28,7 @@ My research focuses on:
 ---
 
 ## 📝 Selected Publications
+<a id="publications"></a>
 
 - GuardAgent: Detecting Promotion-driven Attacks  
 - (add more…)
@@ -29,6 +36,7 @@ My research focuses on:
 ---
 
 ## 📰 News
+<a id="news"></a>
 
 - [2026] Paper submitted to CIKM  
 - [2025] Working on causal detection for agentic systems  
@@ -36,5 +44,6 @@ My research focuses on:
 ---
 
 ## 📫 Contact
+<a id="contact"></a>
 
-Email: shiyi.yang1@unsw.edu.au
+Email: your@email.com  
