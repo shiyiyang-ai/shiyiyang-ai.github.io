@@ -46,4 +46,10 @@
 body {
   font-size: 15px;
   line-height: 1.7;
+  font-family: 'Inter', sans-serif;
+}
+
+.page__content {
+  max-width: 800px;
+  margin: auto;
 }
