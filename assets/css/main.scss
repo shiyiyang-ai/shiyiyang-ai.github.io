@@ -77,6 +77,12 @@ body {
   font-size: 0.84rem;
 }
 
+.greedy-nav button,
+.greedy-nav button:hover,
+.greedy-nav button:focus {
+  color: #4f7f38;
+}
+
 .masthead__menu-item--lg a {
   color: #4f7f38 !important;
 }
