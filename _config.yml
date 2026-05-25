@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shiyi Yang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shiyi Yang"
 description              : &description "Academic homepage for Shiyi Yang, focused on trustworthy AI, AI security, and LLM agents."   # Update this with a general description of your site, this is the default if not overridden by a page
