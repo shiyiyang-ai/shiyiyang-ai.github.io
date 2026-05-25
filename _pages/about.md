@@ -4,15 +4,6 @@ title: ""
 permalink: /
 ---
 
-<section class="academic-hero">
-  <p class="academic-kicker">AI Security / Trustworthy Machine Learning / LLM Agents</p>
-  <h1>Shiyi Yang</h1>
-  <p class="academic-lede">
-    I work on trustworthy and secure AI systems, with a focus on recommender-system security,
-    LLM-based attacks and defenses, and emerging risks in agentic systems.
-  </p>
-</section>
-
 ## About Me
 <a id="about-me"></a>
 
@@ -42,7 +33,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 - **GuardAgent: Detecting Promotion-driven Attacks.** Work in progress on detecting manipulative behavior in AI-powered recommendation and agent settings.
 - **Causal detection for agentic systems.** Ongoing research on identifying causal signals behind unsafe or manipulated agent behavior.
 
-## Selected Awards & Honors
+## Awards & Honors
 <a id="selected-awards-honors"></a>
 
 Awards and honors will be updated here.
