@@ -13,7 +13,7 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "theme/{{ site.site_theme | default' | append: '_dark' }}",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -79,12 +79,12 @@ body {
 
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
-  color: #d9366f;
-  border-bottom-color: #d9366f;
+  color: #4f7f38;
+  border-bottom-color: #4f7f38;
 }
 
 .greedy-nav .visible-links a:before {
-  background: #d9366f;
+  background: #4f7f38;
 }
 
 .greedy-nav .hidden-links {
@@ -93,8 +93,8 @@ body {
 }
 
 .greedy-nav .hidden-links a:hover {
-  color: #d9366f;
-  background: #fff0f5;
+  color: #4f7f38;
+  background: #eef6ea;
 }
 
 .greedy-nav .hidden-links:before {
@@ -127,7 +127,7 @@ body {
 }
 
 .page__content a {
-  color: #d9366f;
+  color: #4f7f38;
 }
 
 .page__content strong {
