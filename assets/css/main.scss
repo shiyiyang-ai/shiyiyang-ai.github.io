@@ -83,6 +83,14 @@ body {
   color: #4f7f38;
 }
 
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after,
+.greedy-nav .close .navicon:before,
+.greedy-nav .close .navicon:after {
+  background: #4f7f38;
+}
+
 .masthead__menu-item--lg a {
   color: #4f7f38 !important;
 }
