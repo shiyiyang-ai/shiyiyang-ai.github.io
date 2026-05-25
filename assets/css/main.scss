@@ -68,7 +68,7 @@ body {
 .greedy-nav a,
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
-  color: #c24f2c;
+  color: #4f7f38;
   font-weight: 700;
 }
 
@@ -77,14 +77,18 @@ body {
   font-size: 0.84rem;
 }
 
+.masthead__menu-item--lg a {
+  color: #d9366f !important;
+}
+
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
-  color: #4f7f38;
-  border-bottom-color: #4f7f38;
+  color: #c24f2c;
+  border-bottom-color: #c24f2c;
 }
 
 .greedy-nav .visible-links a:before {
-  background: #4f7f38;
+  background: #c24f2c;
 }
 
 .greedy-nav .hidden-links {
@@ -93,8 +97,8 @@ body {
 }
 
 .greedy-nav .hidden-links a:hover {
-  color: #4f7f38;
-  background: #eef6ea;
+  color: #c24f2c;
+  background: #f8efe8;
 }
 
 .greedy-nav .hidden-links:before {
