@@ -46,9 +46,9 @@
 body {
   font-size: 15px;
   line-height: 1.7;
-  color: #2f2f2f;
+  color: #222222;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  background: #fdfcf9;
+  background: #ffffff;
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
@@ -58,17 +58,17 @@ body {
 .greedy-nav,
 .greedy-nav button,
 .greedy-nav .hidden-links {
-  background: #fdfcf9;
+  background: #ffffff;
 }
 
 .masthead::after {
-  background: #eadfd4;
+  background: #e6e1de;
 }
 
 .greedy-nav a,
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
-  color: #7a4f26;
+  color: #6f1d1b;
   font-weight: 700;
 }
 
@@ -79,34 +79,30 @@ body {
 
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
-  color: #8a3b2f;
-  border-bottom-color: #8a3b2f;
+  color: #6f1d1b;
+  border-bottom-color: #6f1d1b;
 }
 
 .greedy-nav .visible-links a:before {
-  background: #8a3b2f;
+  background: #6f1d1b;
 }
 
 .greedy-nav .hidden-links {
-  border-color: #eadfd4;
+  border-color: #e6e1de;
   box-shadow: 0 8px 22px rgba(38, 50, 63, 0.14);
 }
 
 .greedy-nav .hidden-links a:hover {
-  color: #8a3b2f;
-  background: #f4ece6;
+  color: #6f1d1b;
+  background: #f5efed;
 }
 
 .greedy-nav .hidden-links:before {
-  border-color: #eadfd4 transparent;
+  border-color: #e6e1de transparent;
 }
 
 .greedy-nav .hidden-links:after {
-  border-color: #fdfcf9 transparent;
-}
-
-#main {
-  margin-top: 2em;
+  border-color: #ffffff transparent;
 }
 
 .page__content {
@@ -114,11 +110,15 @@ body {
   margin: auto;
 }
 
+#main {
+  margin-top: 2em;
+}
+
 .page__content h2 {
   margin-top: 1.8em;
   padding-bottom: 0.3em;
-  color: #7a4f26;
-  border-bottom: 1px solid #eadfd4;
+  color: #6f1d1b;
+  border-bottom: 1px solid #e6e1de;
   font-size: 1.35em;
 }
 
@@ -127,11 +127,11 @@ body {
 }
 
 .page__content a {
-  color: #8a3b2f;
+  color: #6f1d1b;
 }
 
 .page__content strong {
-  color: #14213d;
+  color: #222222;
 }
 
 .page__content ul {
@@ -148,11 +148,11 @@ body {
 
 .author__content,
 .author__urls-wrapper {
-  color: #2f2f2f;
+  color: #222222;
 }
 
 .author__name {
-  color: #7a4f26;
+  color: #6f1d1b;
   font-size: 1.35em !important;
   line-height: 1.2;
 }
