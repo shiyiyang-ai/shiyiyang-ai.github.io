@@ -67,6 +67,12 @@ body {
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
   color: #7a4f26;
+  font-weight: 700;
+}
+
+.greedy-nav a {
+  margin: 0 0.65rem;
+  font-size: 0.92rem;
 }
 
 .masthead__menu-item.selected a,
@@ -115,35 +121,6 @@ body {
 
 .page__content strong {
   color: #14213d;
-}
-
-.academic-hero {
-  margin: 0 0 2.5em;
-  padding: 2.2em 0 1.7em;
-  border-bottom: 2px solid #d9ded8;
-}
-
-.academic-hero h1 {
-  margin: 0.15em 0 0.25em;
-  color: #14213d;
-  font-size: 2.35em;
-  line-height: 1.15;
-}
-
-.academic-kicker {
-  margin: 0;
-  color: #7a4f26;
-  font-size: 0.82em;
-  font-weight: 700;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
-
-.academic-lede {
-  max-width: 760px;
-  margin: 0;
-  color: #3f4b57;
-  font-size: 1.08em;
 }
 
 .page__content ul {
