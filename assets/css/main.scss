@@ -81,6 +81,7 @@ body {
   color: #4f7f38 !important;
 }
 
+.greedy-nav .visible-links a:hover,
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
   color: #4f7f38;
@@ -121,7 +122,7 @@ body {
 .page__content h2 {
   margin-top: 1.8em;
   padding-bottom: 0.3em;
-  color: #4f7f38;
+  color: #c24f2c;
   border-bottom: 1px solid #f0ded7;
   font-size: 1.35em;
 }
@@ -156,7 +157,7 @@ body {
 }
 
 .author__name {
-  color: #d9366f;
+  color: #c24f2c;
   font-size: 1.35em !important;
   line-height: 1.2;
 }
