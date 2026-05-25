@@ -72,7 +72,7 @@ body {
 
 .greedy-nav a {
   margin: 0 0.65rem;
-  font-size: 0.92rem;
+  font-size: 0.84rem;
 }
 
 .masthead__menu-item.selected a,
@@ -102,17 +102,25 @@ body {
   border-color: #fbfbf8 transparent;
 }
 
+#main {
+  margin-top: 0.5em;
+}
+
 .page__content {
   max-width: 860px;
   margin: auto;
 }
 
 .page__content h2 {
-  margin-top: 2.2em;
+  margin-top: 1.8em;
   padding-bottom: 0.3em;
   color: #7a4f26;
   border-bottom: 1px solid #d9ded8;
   font-size: 1.35em;
+}
+
+.page__content h2:first-child {
+  margin-top: 0;
 }
 
 .page__content a {
@@ -138,4 +146,14 @@ body {
 .author__content,
 .author__urls-wrapper {
   color: #344150;
+}
+
+.author__name {
+  color: #7a4f26;
+  font-size: 1.35em;
+  line-height: 1.2;
+}
+
+.page__footer {
+  display: none;
 }
