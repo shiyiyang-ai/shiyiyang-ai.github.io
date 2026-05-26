@@ -7,9 +7,7 @@ permalink: /
 ## About Me
 <a id="about-me"></a>
 
-I am interested in building AI systems that remain reliable under adversarial, manipulated, or uncertain conditions. My current work centers on trustworthy and secure AI in the era of large language models, with an emphasis on recommender systems, LLM agents, and safety evaluation.
-
-I am especially interested in research questions that connect security, causality, and real-world AI deployment: how attacks emerge, how they can be detected, and how robust safeguards can be designed without losing system utility.
+Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the University of New South Wales (UNSW) and CSIRO’s Data61, supervised by Prof. Lina Yao (UNSW), Dr. Chen Wang (CSIRO), Dr. Xiwei Xu (CSIRO), and Prof. Liming Zhu (CSIRO). She previously received her MPhil degree from UNSW under the supervision of Dr. Hui Guo and Prof. Jingling Xue.
 
 ## Research Interests
 <a id="research-interests"></a>
