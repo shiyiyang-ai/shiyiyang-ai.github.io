@@ -283,9 +283,9 @@ body {
   .affiliation-rail {
     position: fixed;
     top: 7rem;
-    left: calc(50% + 390px);
+    right: calc((100vw - 1280px) / 2 + 1rem);
     display: grid;
-    justify-content: start;
+    justify-content: end;
     gap: 1rem;
     width: 250px;
     margin: 0;
