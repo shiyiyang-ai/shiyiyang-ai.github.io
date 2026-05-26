@@ -8,8 +8,7 @@ permalink: /
 <a id="about-me"></a>
 
 <div class="bio-intro">
-  <p>Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW)</a> and <a href="https://www.csiro.au/en/about/people/research-units/data61">CSIRO’s Data61</a>, supervised by <a href="https://www.linayao.com">Prof. Lina Yao (UNSW)</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang (CSIRO)</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu (CSIRO)</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu (CSIRO)</a></p>
-  <p>She previously received her MPhil degree from UNSW under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a></p>
+  <p>Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW)</a> and <a href="https://www.csiro.au/en/about/people/research-units/data61">CSIRO’s Data61</a>, supervised by <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. She previously received her MPhil degree from UNSW under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a></p>
 </div>
 
 ## Research Interests
@@ -37,7 +36,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>WWW<br>2026</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">ACM Web Conference 2026 <span>WWW 2026, CORE A*</span></div>
+      <div class="publication-venue">ACM Web Conference 2026 <span>CORE A*</span></div>
       <h3><a href="https://dl.acm.org/doi/10.1145/3774904.3792688">DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents</a></h3>
       <p><strong>Shiyi Yang</strong>, Zhibo Hu, Xinshu Li, Chen Wang, Tong Yu, Xiwei Xu, Liming Zhu, Lina Yao</p>
     </div>
@@ -48,7 +47,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>KDD<br>2026</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">32nd SIGKDD Conference on Knowledge Discovery and Data Mining <span>KDD 2026, CORE A*</span></div>
+      <div class="publication-venue">32nd SIGKDD Conference on Knowledge Discovery and Data Mining <span>CORE A*</span></div>
       <h3>Causal Abstraction Learning for Multi-Modal Grounded Planning</h3>
       <p>Xinshu Li, <strong>Shiyi Yang</strong>, Ziqi Xu, Feng Xia, Michael Sheng, Lina Yao</p>
     </div>
@@ -59,7 +58,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>CIKM<br>2024</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">33rd ACM International Conference on Information and Knowledge Management <span>CIKM 2024, CORE A</span></div>
+      <div class="publication-venue">33rd ACM International Conference on Information and Knowledge Management <span>CORE A</span></div>
       <h3><a href="https://dl.acm.org/doi/abs/10.1145/3627673.3679828">Attacking Visually-aware Recommender Systems with Transferable and Imperceptible Adversarial Styles</a></h3>
       <p><strong>Shiyi Yang</strong>, Chen Wang, Xiwei Xu, Liming Zhu, Lina Yao</p>
     </div>
@@ -70,7 +69,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>ICDM<br>2023</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">23rd IEEE International Conference on Data Mining <span>ICDM 2023, CORE A*</span></div>
+      <div class="publication-venue">23rd IEEE International Conference on Data Mining <span>CORE A*</span></div>
       <h3><a href="https://ieeexplore.ieee.org/abstract/document/10415763">Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems</a></h3>
       <p><strong>Shiyi Yang</strong>, Chen Wang, Xiwei Xu, Liming Zhu, Lina Yao</p>
     </div>
@@ -81,7 +80,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>QRS<br>2021</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">21st IEEE International Conference on Software Quality, Reliability and Security <span>QRS 2021, CORE B</span></div>
+      <div class="publication-venue">21st IEEE International Conference on Software Quality, Reliability and Security <span>CORE B</span></div>
       <h3><a href="https://ieeexplore.ieee.org/abstract/document/9724770">Hunter in the Dark: Discover Anomalous Network Activity Using Deep Ensemble Network</a></h3>
       <p><strong>Shiyi Yang</strong>, Hui Guo, Nour Moustafa</p>
     </div>
@@ -92,7 +91,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>DSC<br>2021</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">IEEE Conference on Dependable and Secure Computing <span>DSC 2021</span></div>
+      <div class="publication-venue">IEEE Conference on Dependable and Secure Computing</div>
       <h3><a href="https://ieeexplore.ieee.org/abstract/document/9346261">DualNet: Locate Then Detect Effective Payload with Deep Attention Network</a></h3>
       <p><strong>Shiyi Yang</strong>, Peilun Wu, Hui Guo</p>
     </div>
@@ -103,7 +102,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
       <span>TrustCom<br>2020</span>
     </div>
     <div class="publication-body">
-      <div class="publication-venue">19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications <span>TrustCom 2020, CORE A</span></div>
+      <div class="publication-venue">19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications <span>CORE A</span></div>
       <h3><a href="https://ieeexplore.ieee.org/abstract/document/9343142">Densely Connected Residual Network for Attack Recognition</a></h3>
       <p>Peilun Wu, Nour Moustafa, <strong>Shiyi Yang</strong>, Hui Guo</p>
     </div>
@@ -139,8 +138,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 <a id="teaching"></a>
 
 <div class="teaching-role">
-  <div><strong>Tutor/Mentor</strong> <span>Jun 2020 -- Present</span></div>
-  <div>University of New South Wales <span>Sydney, Australia</span></div>
+  <p><strong>Tutor & Mentor since 2020</strong>, The University of New South Wales.</p>
 </div>
 
 - COMP9517 Computer Vision, with Prof. Arcot Sowmya, Prof. Erik Meijering, Dr. Yang Song, and Dr. Gong Dong.
