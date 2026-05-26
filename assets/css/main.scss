@@ -243,6 +243,10 @@ body {
   margin-bottom: 0.45rem;
 }
 
+.affiliation-rail {
+  display: none;
+}
+
 .author__avatar img {
   border-radius: 4px;
 }
@@ -269,5 +273,37 @@ body {
 
   .publication-thumb {
     min-height: 84px;
+  }
+}
+
+@media (min-width: 1320px) {
+  .affiliation-rail {
+    position: fixed;
+    top: 7rem;
+    right: 2.2rem;
+    display: grid;
+    gap: 1.1rem;
+    width: 118px;
+    z-index: 5;
+  }
+
+  .affiliation-rail a {
+    display: block;
+    padding: 0.45rem;
+    border: 1px solid #f0ded7;
+    border-radius: 6px;
+    background: #ffffff;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .affiliation-rail a:hover {
+    border-color: #4f7f38;
+    transform: translateY(-1px);
+  }
+
+  .affiliation-rail img {
+    display: block;
+    width: 100%;
+    height: auto;
   }
 }

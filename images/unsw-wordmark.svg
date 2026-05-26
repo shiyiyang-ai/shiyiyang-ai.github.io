@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 76" role="img" aria-labelledby="title desc">
+  <title id="title">UNSW Sydney</title>
+  <desc id="desc">UNSW Sydney wordmark</desc>
+  <rect width="220" height="76" rx="8" fill="#ffffff"/>
+  <rect x="12" y="12" width="8" height="52" fill="#ffd400"/>
+  <text x="32" y="39" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="0">UNSW</text>
+  <text x="33" y="58" fill="#555555" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="0">Sydney</text>
+</svg>

@@ -8,7 +8,7 @@ permalink: /
 <a id="about-me"></a>
 
 <div class="bio-intro">
-  <p>Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW)</a> and <a href="https://www.csiro.au/en/about/people/research-units/data61">CSIRO’s Data61</a>, supervised by <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. She previously received her MPhil degree from UNSW under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a></p>
+  <p>Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW)</a> and <a href="https://www.csiro.au/en/about/people/research-units/data61">CSIRO’s Data61</a>, supervised by <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. She previously received her MPhil degree from UNSW under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a>.</p>
 </div>
 
 ## Research Interests
