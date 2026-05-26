@@ -110,17 +110,27 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 ## Awards & Honors
 <a id="selected-awards-honors"></a>
 
-Awards and honors will be updated here.
+- UNSW Industry Engagement Grant, 2025.
+- UNSW Development and Research Training Grant, 2025.
+- Outstanding Reviewer, ACM SIGKDD, 2025.
+- CSIRO Data61 PhD Scholarship, including competitive Top-up, 2022--2025.
+- UNSW PhD Tuition Fee Scholarship (TFS), 2022--2025.
+- Provincial-level Outstanding Graduate, 2019.
 
 ## Invited Talks
 <a id="invited-talks"></a>
 
-Invited talks will be updated here.
+- **DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents.** WWW, June 29-July 3, 2026, Dubai, United Arab Emirates.
+- **Attacking Visually-aware Recommender Systems with Transferable and Imperceptible Adversarial Styles.** CIKM, October 21-25, 2024, Boise, Idaho, USA.
+- **Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems.** ICDM, December 1-4, 2023, Shanghai, China.
 
 ## Professional Services
 <a id="professional-services"></a>
 
-Professional service activities, including reviewing and community contributions, will be updated here.
+**PC Member, Reviewer, and Sub-reviewer:**
+
+- **Journals:** ACM Transactions on Information Systems (TOIS); IEEE Transactions on Knowledge and Data Engineering (TKDE); IEEE Transactions on Artificial Intelligence (TAI); ACM Transactions on Recommender Systems (TORS); IEEE Transactions on Sensor Networks (TOSN); IEEE Transactions on Big Data (TBD); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Scientific Reports; etc.
+- **Conferences:** WWW 2025-2026; KDD 2024-2026; SIGIR 2026; ICDH 2026; ACML 2025; CIKM 2024; etc.
 
 ## Teaching
 <a id="teaching"></a>
