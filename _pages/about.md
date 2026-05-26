@@ -7,7 +7,7 @@ permalink: /
 ## About Me
 <a id="about-me"></a>
 
-Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the University of New South Wales (UNSW) and CSIRO’s Data61, supervised by Prof. Lina Yao (UNSW), Dr. Chen Wang (CSIRO), Dr. Xiwei Xu (CSIRO), and Prof. Liming Zhu (CSIRO). She previously received her MPhil degree from UNSW under the supervision of Dr. Hui Guo and Prof. Jingling Xue.
+Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the [University of New South Wales (UNSW)](https://www.unsw.edu.au) and [CSIRO’s Data61](https://www.csiro.au/en/about/people/research-units/data61), supervised by [Prof. Lina Yao (UNSW)](https://www.linayao.com), [Dr. Chen Wang (CSIRO)](https://people.csiro.au/w/c/Chen-Wang), [Dr. Xiwei Xu (CSIRO)](https://people.csiro.au/X/S/Xiwei-Xu), and [Prof. Liming Zhu (CSIRO)](https://liming-zhu.org). She previously received her MPhil degree from UNSW under the supervision of [Dr. Hui Guo](https://www.unsw.edu.au/staff/hui-guo) and [Prof. Jingling Xue](https://cgi.cse.unsw.edu.au/~jingling/).
 
 ## Research Interests
 <a id="research-interests"></a>
