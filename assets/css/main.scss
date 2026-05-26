@@ -239,14 +239,8 @@ body {
   margin-bottom: 0.45rem;
 }
 
-.teaching-role div {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.teaching-role span {
-  color: #666666;
+.teaching-role p {
+  margin-bottom: 0.45rem;
 }
 
 .author__avatar img {
@@ -275,13 +269,5 @@ body {
 
   .publication-thumb {
     min-height: 84px;
-  }
-
-  .teaching-role div {
-    display: block;
-  }
-
-  .teaching-role span {
-    display: block;
   }
 }
