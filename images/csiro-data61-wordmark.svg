@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 76" role="img" aria-labelledby="title desc">
+  <title id="title">CSIRO Data61</title>
+  <desc id="desc">CSIRO Data61 wordmark</desc>
+  <rect width="220" height="76" rx="8" fill="#ffffff"/>
+  <circle cx="25" cy="38" r="12" fill="#4f7f38"/>
+  <text x="48" y="37" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="0">CSIRO</text>
+  <text x="49" y="58" fill="#555555" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="0">Data61</text>
+</svg>
