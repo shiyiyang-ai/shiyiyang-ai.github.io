@@ -134,9 +134,9 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 ## Invited Talks
 <a id="invited-talks"></a>
 
-- **DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents.** WWW, June 29-July 3, 2026, Dubai, United Arab Emirates.
-- **Attacking Visually-aware Recommender Systems with Transferable and Imperceptible Adversarial Styles.** CIKM, October 21-25, 2024, Boise, Idaho, USA.
-- **Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems.** ICDM, December 1-4, 2023, Shanghai, China.
+- 2026.06 — DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents, WWW 2026, Dubai, United Arab Emirates.
+- 2024.10 — Attacking Visually-aware Recommender Systems with Transferable and Imperceptible Adversarial Styles, CIKM 2024, Boise, Idaho, USA.
+- 2023.12 — Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems, ICDM 2023, Shanghai, China.
 
 ## Professional Services
 <a id="professional-services"></a>
@@ -150,7 +150,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 <a id="teaching"></a>
 
 <div class="teaching-role">
-  <p><strong>Tutor & Mentor since 2020</strong>, The University of New South Wales.</p>
+  <p><strong>Tutor & Mentor</strong> at UNSW Sydney (since 2020):</p>
 </div>
 
 - COMP9517 Computer Vision, with Prof. Arcot Sowmya, Prof. Erik Meijering, Dr. Yang Song, and Dr. Gong Dong.
