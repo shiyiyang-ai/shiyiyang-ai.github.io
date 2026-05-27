@@ -46,7 +46,7 @@
 body {
   font-size: 15px;
   line-height: 1.7;
-  color: #333333;
+  color: #3b3b3b;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   background: #ffffff;
   margin-bottom: 0 !important;
@@ -150,7 +150,7 @@ body {
 }
 
 .page__content strong {
-  color: #222222;
+  color: #2f2f2f;
 }
 
 .page__content ul {
@@ -161,45 +161,36 @@ body {
   margin-bottom: 0.65em;
 }
 
+.news-panel {
+  max-height: 13.5rem;
+  margin: 0.9rem 0 1.2rem;
+  padding: 0.95rem 1.05rem 0.75rem;
+  overflow-y: auto;
+  border: 1px solid #f0ded7;
+  border-radius: 6px;
+  background: #ffffff;
+  box-shadow: 0 10px 24px rgba(55, 42, 34, 0.08);
+}
+
+.news-panel::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-panel::-webkit-scrollbar-thumb {
+  background: #f0ded7;
+  border-radius: 999px;
+}
+
+.news-panel::-webkit-scrollbar-track {
+  background: #fffaf7;
+}
+
 .news-list {
-  margin-bottom: 0.8rem;
-}
-
-.news-more {
-  margin: -0.15rem 0 1.2rem;
-}
-
-.news-more summary {
-  display: inline-block;
-  color: #4f7f38;
-  font-size: 0.92rem;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.news-more summary:hover {
-  color: #c24f2c;
-}
-
-.news-more summary::marker {
-  display: none;
-}
-
-.news-more summary::-webkit-details-marker {
-  display: none;
-}
-
-.news-more[open] summary {
-  margin-bottom: 0.65rem;
-}
-
-.news-more[open] summary::after {
-  content: " / Hide";
-  color: #c24f2c;
+  margin: 0;
 }
 
 .bio-intro a {
-  color: #222222;
+  color: #2f2f2f;
   font-weight: 700;
 }
 
@@ -243,11 +234,11 @@ body {
   margin: 0.1rem 0 0.35rem;
   font-size: inherit;
   line-height: 1.35;
-  color: #222222;
+  color: #2f2f2f;
 }
 
 .publication-body h3 a {
-  color: #222222;
+  color: #2f2f2f;
 }
 
 .publication-body h3 a:hover {
@@ -294,7 +285,23 @@ body {
 
 .author__content,
 .author__urls-wrapper {
-  color: #333333;
+  color: #3b3b3b;
+  font-size: 1rem;
+}
+
+.author__bio,
+.author__urls {
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.author__bio {
+  font-size: 0;
+}
+
+.author__bio::after {
+  content: "Researcher@Trustworthy AI.";
+  font-size: 1rem;
 }
 
 .author__name {
