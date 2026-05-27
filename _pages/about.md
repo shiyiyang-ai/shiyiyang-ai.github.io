@@ -24,24 +24,20 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 ## News
 <a id="news"></a>
 
-<ul class="news-list">
-  <li><strong>2026:</strong> Paper on stealthy memory corruption in LLM-powered recommender agents to appear at WWW 2026.</li>
-  <li><strong>2026:</strong> Paper on causal abstraction learning for multi-modal grounded planning to appear at KDD 2026.</li>
-  <li><strong>2025:</strong> Received the UNSW Industry Engagement Grant.</li>
-  <li><strong>2025:</strong> Received the UNSW Development and Research Training Grant.</li>
-  <li><strong>2025:</strong> Recognized as an Outstanding Reviewer by ACM SIGKDD.</li>
-</ul>
-
-<details class="news-more">
-  <summary>Show more</summary>
-  <ul class="news-list news-list--more">
+<div class="news-panel">
+  <ul class="news-list">
+    <li><strong>2026:</strong> Paper on stealthy memory corruption in LLM-powered recommender agents to appear at WWW 2026.</li>
+    <li><strong>2026:</strong> Paper on causal abstraction learning for multi-modal grounded planning to appear at KDD 2026.</li>
+    <li><strong>2025:</strong> Received the UNSW Industry Engagement Grant.</li>
+    <li><strong>2025:</strong> Received the UNSW Development and Research Training Grant.</li>
+    <li><strong>2025:</strong> Recognized as an Outstanding Reviewer by ACM SIGKDD.</li>
     <li><strong>2024:</strong> Paper on adversarial styles for visually-aware recommender systems appeared at CIKM 2024.</li>
     <li><strong>2023:</strong> Paper on review-incorporated profile injection attacks appeared at ICDM 2023.</li>
     <li><strong>2022:</strong> Awarded the CSIRO Data61 PhD Scholarship with competitive Top-up.</li>
     <li><strong>2021:</strong> Paper on anomalous network activity detection appeared at QRS 2021.</li>
     <li><strong>2021:</strong> Paper on effective payload detection appeared at DSC 2021.</li>
   </ul>
-</details>
+</div>
 
 ## Selected Publications
 <a id="selected-publications"></a>
