@@ -141,7 +141,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 ## Professional Services
 <a id="professional-services"></a>
 
-**PC Member & Sub-reviewer**
+**PC Member & Reviewer**
 
 - **Journals:** ACM Transactions on Information Systems (TOIS); IEEE Transactions on Knowledge and Data Engineering (TKDE); IEEE Transactions on Artificial Intelligence (TAI); ACM Transactions on Recommender Systems (TORS); IEEE Transactions on Sensor Networks (TOSN); IEEE Transactions on Big Data (TBD); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Scientific Reports; etc.
 - **Conferences:** WWW 2025-2026; KDD 2024-2026; SIGIR 2026; ICDH 2026; ACML 2025; CIKM 2024; etc.
