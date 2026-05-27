@@ -45,23 +45,23 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 <div class="publication-list">
   <article class="publication-item">
     <div class="publication-thumb">
-      <span>WWW<br>2026</span>
-    </div>
-    <div class="publication-body">
-      <div class="publication-venue">ACM Web Conference 2026 <span>CORE A*</span></div>
-      <h3><a href="https://dl.acm.org/doi/10.1145/3774904.3792688">DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents</a></h3>
-      <p><strong>Shiyi Yang</strong>, Zhibo Hu, Xinshu Li, Chen Wang, Tong Yu, Xiwei Xu, Liming Zhu, Lina Yao</p>
-    </div>
-  </article>
-
-  <article class="publication-item">
-    <div class="publication-thumb">
       <span>KDD<br>2026</span>
     </div>
     <div class="publication-body">
       <div class="publication-venue">32nd SIGKDD Conference on Knowledge Discovery and Data Mining <span>CORE A*</span></div>
       <h3>Causal Abstraction Learning for Multi-Modal Grounded Planning</h3>
       <p>Xinshu Li, <strong>Shiyi Yang</strong>, Ziqi Xu, Feng Xia, Michael Sheng, Lina Yao</p>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-thumb">
+      <span>WWW<br>2026</span>
+    </div>
+    <div class="publication-body">
+      <div class="publication-venue">ACM Web Conference 2026 <span>CORE A*</span></div>
+      <h3><a href="https://dl.acm.org/doi/10.1145/3774904.3792688">DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents</a></h3>
+      <p><strong>Shiyi Yang</strong>, Zhibo Hu, Xinshu Li, Chen Wang, Tong Yu, Xiwei Xu, Liming Zhu, Lina Yao</p>
     </div>
   </article>
 
