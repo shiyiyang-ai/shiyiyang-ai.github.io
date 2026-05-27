@@ -127,7 +127,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 - UNSW Industry Engagement Grant, 2025.
 - UNSW Development and Research Training Grant, 2025.
 - Outstanding Reviewer, ACM SIGKDD, 2025.
-- CSIRO Data61 PhD Scholarship, including competitive Top-up, 2022--2025.
+- **CSIRO Data61 PhD Scholarship, including competitive Top-up, 2022--2025.**
 - UNSW PhD Tuition Fee Scholarship (TFS), 2022--2025.
 - Provincial-level Outstanding Graduate, 2019.
 
@@ -150,7 +150,7 @@ My research studies how modern AI systems can be attacked, measured, and made mo
 <a id="teaching"></a>
 
 <div class="teaching-role">
-  <p><strong>Tutor & Mentor</strong> at UNSW Sydney (since 2020)</p>
+  <p><strong>Tutor & Mentor at UNSW Sydney since 2020</strong></p>
 </div>
 
 - COMP9517 Computer Vision, with Prof. Arcot Sowmya, Prof. Erik Meijering, Dr. Yang Song, and Dr. Gong Dong.
