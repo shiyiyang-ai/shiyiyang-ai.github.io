@@ -8,18 +8,20 @@ permalink: /
 <a id="about-me"></a>
 
 <div class="bio-intro">
-  <p>Shiyi Yang is currently a PhD candidate in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW)</a> and <a href="https://www.csiro.au/en/about/people/research-units/data61">CSIRO’s Data61</a>, supervised by <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. She previously received her MPhil degree from UNSW under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a>.</p>
+  <p>Hi 👋, I am Shiyi Yang, a Postdoctoral Research Fellow in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW Sydney)</a>, working with <a href="https://www.linayao.com">Prof. Lina Yao</a>. Before that, I received my PhD degree in Computer Science from UNSW Sydney, supported by <a href="https://www.csiro.au/en/about/people/research-units/data61">Commonwealth Scientific and Industrial Research Organisation (CSIRO)’s Data61</a>, Australia, in 2026, under the supervision of <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. I also received my MPhil degree in Computer Science from UNSW Sydney in 2022 under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a>.</p>
 </div>
 
 ## Research Interests
 <a id="research-interests"></a>
 
-My research studies how modern AI systems can be attacked, measured, and made more reliable in realistic deployment settings. Current interests include:
+- **Trustworthy AI:** Safety, Security, Robustness, and Alignment.
+- **LLM Agents:** Recommender Agents, Embodied Agents, and GUI Agents.
 
-- **Recommender systems security:** detecting and mitigating manipulation, promotion-driven attacks, and adversarial behavior in recommendation pipelines.
-- **LLM attacks and defenses:** understanding how language-model systems fail under adversarial prompts, tool use, and long-context interaction.
-- **Agentic systems and memory poisoning:** analyzing how persistent memory, retrieval, and autonomous workflows introduce new security risks.
-- **Trustworthy AI:** building evaluation methods and safeguards for AI systems that need to be robust, transparent, and dependable.
+**Research vision:** My research is driven by a fundamental question: how can we build AI systems that remain trustworthy, robust, and aligned in complex and dynamic environments?
+
+My research journey began in cyber security, where I studied anomaly detection and threat analysis. A key lesson from this experience is that effective defenses require a deep understanding of attacks and system vulnerabilities. During my PhD, I extended this perspective to recommender systems, investigating emerging attack surfaces and developing defenses to improve the robustness and trustworthiness of intelligent systems. More recently, I have expanded this line of research to LLM agents, focusing on AI safety & security, robustness, and alignment in increasingly autonomous environments.
+
+Looking forward, I aim to develop trustworthy AI systems that can reliably operate in the real world, remain resilient to adversarial influences, and stay aligned with human intentions.
 
 ## News
 <a id="news"></a>
