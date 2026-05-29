@@ -153,5 +153,5 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
   <p><strong>Tutor & Mentor at UNSW Sydney since 2020</strong></p>
 </div>
 
-- COMP9517 Computer Vision, with Prof. Arcot Sowmya, Prof. Erik Meijering, Dr. Yang Song, and Dr. Gong Dong.
+- COMP9517 Computer Vision, with Prof. Arcot Sowmya, Prof. Erik Meijering, and Dr. Yang Song.
 - COMP9444 Neural Networks & Deep Learning, with Dr. Alan Blair.
