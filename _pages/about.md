@@ -19,7 +19,7 @@ permalink: /
 
 **Research Vision:** My research is driven by a fundamental question: how can we build AI systems that remain trustworthy, robust, and aligned in complex and dynamic environments?
 
-My research journey began in cyber security, focusing on anomaly detection and threat analysis across IoT, edge, and cloud computing systems. A key lesson from this experience is that effective defenses require a deep understanding of attacks and system vulnerabilities. During my PhD, I extended this perspective to recommender systems, investigating emerging attack surfaces and developing defenses to improve the robustness and trustworthiness of intelligent systems. More recently, I have expanded this line of research to LLM agents, focusing on AI safety & security, robustness, and alignment in increasingly autonomous environments.
+My research journey began during my MPhil in cyber security, focusing on deep learning for anomaly detection and threat analysis across IoT, edge, and cloud computing systems. A key lesson from this experience is that effective defenses require a deep understanding of attacks and system vulnerabilities. During my PhD, I extended this perspective to recommender systems, investigating emerging attack surfaces and developing defenses to improve the robustness and trustworthiness of intelligent systems. More recently, I have expanded this line of research to LLM agents, focusing on AI safety & security, robustness, and alignment in increasingly autonomous environments.
 
 Looking forward, I aim to develop trustworthy AI systems that can reliably operate in the real world, remain resilient to adversarial influences, and stay aligned with human values and intentions.
 
