@@ -9,15 +9,13 @@ permalink: /
 
 <div class="bio-intro">
   <p>Hi 👋, I am Shiyi Yang, a Postdoctoral Research Fellow in the School of Computer Science and Engineering at the <a href="https://www.unsw.edu.au">University of New South Wales (UNSW Sydney)</a>, working with <a href="https://www.linayao.com">Prof. Lina Yao</a>. Before that, I received my PhD degree in Computer Science from UNSW Sydney, supported by <a href="https://www.csiro.au/en/about/people/research-units/data61">Commonwealth Scientific and Industrial Research Organisation (CSIRO)’s Data61</a>, Australia, in 2026, under the supervision of <a href="https://www.linayao.com">Prof. Lina Yao</a>, <a href="https://people.csiro.au/w/c/Chen-Wang">Dr. Chen Wang</a>, <a href="https://people.csiro.au/X/S/Xiwei-Xu">Dr. Xiwei Xu</a>, and <a href="https://liming-zhu.org">Prof. Liming Zhu</a>. I also received my MPhil degree in Computer Science from UNSW Sydney in 2022 under the supervision of <a href="https://www.unsw.edu.au/staff/hui-guo">Dr. Hui Guo</a> and <a href="https://cgi.cse.unsw.edu.au/~jingling/">Prof. Jingling Xue</a>.</p>
+  <p>My research focuses on trustworthy AI, with an emphasis on AI safety, security, robustness, and alignment in intelligent systems. In particular, I study recommender systems and LLM-based agents, including GUI agents and embodied agents. My work has been published in top-tier venues including WWW, KDD, CIKM, and ICDM. I also serve as a reviewer and PC member for leading conferences and journals, including WWW, KDD, SIGIR, TOIS, and TKDE. I am always open to collaborations and discussions on trustworthy AI, recommender systems, and LLM-based agents.</p>
 </div>
 
-## Research Interests
+## Research Vision
 <a id="research-interests"></a>
 
-- **Trustworthy AI:** Safety, Security, Robustness, and Alignment.
-- **LLM Agents:** Recommender Agents, Embodied Agents, and GUI Agents.
-
-**Research Vision:** My research is driven by a fundamental question: how can we build AI systems that remain trustworthy, robust, and aligned in complex and dynamic environments?
+My research is driven by a fundamental question: how can we build AI systems that remain trustworthy, robust, and aligned in complex and dynamic environments?
 
 My research journey began during my MPhil in cyber security, focusing on deep learning for anomaly detection and threat analysis across IoT, edge, and cloud computing systems. A key lesson from this experience is that effective defenses require a deep understanding of attacks and system vulnerabilities. During my PhD, I extended this perspective to recommender systems, investigating emerging attack surfaces and developing defenses to improve the robustness and trustworthiness of intelligent systems. More recently, I have expanded this line of research to LLM agents, focusing on AI safety & security, robustness, and alignment in increasingly autonomous environments.
 
