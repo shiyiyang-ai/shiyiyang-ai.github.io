@@ -29,10 +29,10 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
     <li><strong>2026.05:</strong> 🎉 One paper accepted to KDD 2026.</li>
     <li><strong>2026.01:</strong> 🎉 One paper accepted to WWW 2026.</li>
     <li><strong>2025.06:</strong> 🎉 Recognized as an Outstanding Reviewer by ACM SIGKDD 2025.</li>
-    <li><strong>2025.05:</strong> 🎉 Our work on poisoning recommender systems appeared on ArXiv.</li>
+    <li><strong>2025.08:</strong> 🎉 Our work on poisoning recommender systems appeared on ArXiv.</li>
     <li><strong>2025.04:</strong> 🎉 Received the UNSW Industry Engagement Grant.</li>
     <li><strong>2025.03:</strong> 🎉 Received the UNSW Development and Research Training Grant.</li>
-    <li><strong>2024.07:</strong> 🎉 Our survey on AI Safety appeared on ArXiv.</li>
+    <li><strong>2024.07:</strong> 🎉 Our survey on AI Safety in Generative AI Large Language Models appeard on ArXiv.</li>
     <li><strong>2024.07:</strong> 🎉 One paper accepted to CIKM 2024.</li>
     <li><strong>2023.09:</strong> 🎉 One paper accepted to ICDM 2023.</li>
     <li><strong>2022.05:</strong> 🎉 Received the UNSW PhD Tuition Fee Scholarship.</li>
