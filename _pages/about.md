@@ -26,16 +26,18 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
 <div class="news-panel">
   <ul class="news-list">
-    <li><strong>2026:</strong> Paper on stealthy memory corruption in LLM-powered recommender agents to appear at WWW 2026.</li>
-    <li><strong>2026:</strong> Paper on causal abstraction learning for multi-modal grounded planning to appear at KDD 2026.</li>
-    <li><strong>2025:</strong> Received the UNSW Industry Engagement Grant.</li>
-    <li><strong>2025:</strong> Received the UNSW Development and Research Training Grant.</li>
-    <li><strong>2025:</strong> Recognized as an Outstanding Reviewer by ACM SIGKDD.</li>
-    <li><strong>2024:</strong> Paper on adversarial styles for visually-aware recommender systems appeared at CIKM 2024.</li>
-    <li><strong>2023:</strong> Paper on review-incorporated profile injection attacks appeared at ICDM 2023.</li>
-    <li><strong>2022:</strong> Awarded the CSIRO Data61 PhD Scholarship with competitive Top-up.</li>
-    <li><strong>2021:</strong> Paper on anomalous network activity detection appeared at QRS 2021.</li>
-    <li><strong>2021:</strong> Paper on effective payload detection appeared at DSC 2021.</li>
+    <li><strong>2026.05:</strong> 🎉 One paper accepted to KDD 2026.</li>
+    <li><strong>2026.01:</strong> 🎉 One paper accepted to WWW 2026.</li>
+    <li><strong>2025.06:</strong> 🎉 Recognized as an Outstanding Reviewer by ACM SIGKDD 2025.</li>
+    <li><strong>2025.05:</strong> 🎉 Our work on poisoning recommender systems appeared on ArXiv.</li>
+    <li><strong>2025.04:</strong> 🎉 Received the UNSW Industry Engagement Grant.</li>
+    <li><strong>2025.03:</strong> 🎉 Received the UNSW Development and Research Training Grant.</li>
+    <li><strong>2024.07:</strong> 🎉 Our survey on AI Safety appeared on ArXiv.</li>
+    <li><strong>2024.07:</strong> 🎉 One paper accepted to CIKM 2024.</li>
+    <li><strong>2023.09:</strong> 🎉 One paper accepted to ICDM 2023.</li>
+    <li><strong>2022.05:</strong> 🎉 Received the UNSW PhD Tuition Fee Scholarship.</li>
+    <li><strong>2022.04:</strong> 🎉 Received the CSIRO Data61 PhD Scholarship with a competitive Top-up Award.</li>
+    <li><strong>2022.03:</strong> 🎉 Graduated with an MPhil degree from UNSW.</li>
   </ul>
 </div>
 
