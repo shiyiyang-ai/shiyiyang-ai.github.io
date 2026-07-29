@@ -147,8 +147,10 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
 **PC Member & Reviewer**
 
+**Session Chair:** ICDH 2026.
+
 - **Journals:** ACM Transactions on Information Systems (TOIS); IEEE Transactions on Knowledge and Data Engineering (TKDE); IEEE Transactions on Artificial Intelligence (TAI); ACM Transactions on Recommender Systems (TORS); IEEE Transactions on Sensor Networks (TOSN); IEEE Transactions on Big Data (TBD); ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP); Scientific Reports; etc.
-- **Conferences:** WWW 2025-2026; KDD 2024-2026; SIGIR 2026; ICDH 2026; ACML 2025; CIKM 2024; etc.
+- **Conferences:** KDD 2024-2027; WWW 2025-2026; NeurIPS 2026; SIGIR 2026; ICDH 2026; ACML 2025; CIKM 2024; etc.
 
 ## Teaching Experience
 <a id="teaching"></a>
