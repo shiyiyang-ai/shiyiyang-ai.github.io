@@ -26,6 +26,7 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
 <div class="news-panel">
   <ul class="news-list">
+    <li><strong>2026.08:</strong> 🎉 One paper accepted to TIST!</li>
     <li><strong>2026.06:</strong> 🎉 Invited to serve as a Session Chair at ICDH 2026!</li>
     <li><strong>2026.06:</strong> 🎉 Graduated with a PhD degree from UNSW and CSIRO!</li>
     <li><strong>2026.05:</strong> 🎉 One paper accepted to KDD 2026!</li>
@@ -53,7 +54,7 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
     </div>
     <div class="publication-body">
       <div class="publication-venue">32nd SIGKDD Conference on Knowledge Discovery and Data Mining <span>CORE A*</span></div>
-      <h3>Causal Abstraction Learning for Multi-Modal Grounded Planning</h3>
+      <h3><a href="https://dl.acm.org/doi/10.1145/3770855.3817995">Causal Abstraction Learning for Multi-Modal Grounded Planning</a></h3>
       <p>Xinshu Li, <strong>Shiyi Yang</strong>, Ziqi Xu, Feng Xia, Michael Sheng, Lina Yao</p>
     </div>
   </article>
