@@ -26,6 +26,7 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
 <div class="news-panel">
   <ul class="news-list">
+    <li><strong>2026.11:</strong> 🎉 One paper accepted to WSDM!</li>
     <li><strong>2026.08:</strong> 🎉 One paper accepted to TIST!</li>
     <li><strong>2026.06:</strong> 🎉 Invited to serve as a Session Chair at ICDH 2026!</li>
     <li><strong>2026.06:</strong> 🎉 Graduated with a PhD degree from UNSW and CSIRO!</li>
