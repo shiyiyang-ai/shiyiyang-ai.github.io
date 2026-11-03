@@ -14,9 +14,9 @@ permalink: /
 
 ## Research Interests
 
-- **Security and Robustness of Recommender Systems:** Understanding adversarial attacks and developing defenses for trustworthy recommendation.
-- **Safety and Reliability of LLM-based Agents:** Investigating vulnerabilities and improving reliable behavior in recommender and GUI agents.
-- **Causal Inference:** Studying causal effect estimation, causal abstraction, and grounded planning.
+- **Security and Robustness of Recommender Systems**
+- **Safety and Reliability of LLM-based Agents**
+- **Causal Inference and Planning**
 
 ## Research Vision
 
