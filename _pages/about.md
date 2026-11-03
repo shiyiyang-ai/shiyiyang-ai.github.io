@@ -52,6 +52,17 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 <div class="publication-list">
   <article class="publication-item">
     <div class="publication-thumb">
+      <span>WSDM<br>2027</span>
+    </div>
+    <div class="publication-body">
+      <div class="publication-venue">20th ACM International Conference on Web Search and Data Mining <span>CORE A</span></div>
+      <h3>GuardAgent: A Memory-Augmented Agentic Framework for Adaptive Detection of Adversarial Promotions in LLM-Based Recommendation</h3>
+      <p><strong>Shiyi Yang</strong>, Xinshu Li, Chen Wang, Xiwei Xu, Liming Zhu, Lina Yao</p>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-thumb">
       <span>KDD<br>2026</span>
     </div>
     <div class="publication-body">
