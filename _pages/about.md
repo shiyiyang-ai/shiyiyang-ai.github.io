@@ -152,6 +152,7 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 ## Invited Talks
 <a id="invited-talks"></a>
 
+- 2027.02 — GuardAgent: A Memory-Augmented Agentic Framework for Adaptive Detection of Adversarial Promotions in LLM-Based Recommendation, WSDM 2027, Hong Kong, China.
 - 2026.06 — DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents, WWW 2026, Dubai, United Arab Emirates.
 - 2024.10 — Attacking Visually-aware Recommender Systems with Transferable and Imperceptible Adversarial Styles, CIKM 2024, Boise, Idaho, USA.
 - 2023.12 — Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems, ICDM 2023, Shanghai, China.
