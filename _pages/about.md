@@ -12,8 +12,13 @@ permalink: /
   <p>My research focuses on trustworthy AI, with an emphasis on AI safety, security, robustness, and alignment in intelligent systems. In particular, I study recommender systems and LLM-based agents, including GUI agents and embodied agents. My work has been published in top-tier venues including WWW, KDD, CIKM, WSDM and ICDM. I also serve as a reviewer and PC member for leading conferences and journals, including WWW, KDD, SIGIR, TOIS, and TKDE. I am always open to collaborations and discussions on trustworthy AI, recommender systems, and LLM-based agents.</p>
 </div>
 
+## Research Interests
+
+- **Security and Robustness of Recommender Systems:** Understanding adversarial attacks and developing defenses for trustworthy recommendation.
+- **Safety and Reliability of LLM-based Agents:** Investigating vulnerabilities and improving reliable behavior in recommender and GUI agents.
+- **Causal Inference:** Studying causal effect estimation, causal abstraction, and grounded planning.
+
 ## Research Vision
-<a id="research-interests"></a>
 
 My research is driven by a fundamental question: how can we build AI systems that remain trustworthy, robust, and aligned in complex and dynamic environments?
 
