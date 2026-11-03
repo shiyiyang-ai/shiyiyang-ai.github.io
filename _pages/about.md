@@ -68,6 +68,17 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
   <article class="publication-item">
     <div class="publication-thumb">
+      <span>TIST<br>2026</span>
+    </div>
+    <div class="publication-body">
+      <div class="publication-venue">ACM Transactions on Intelligent Systems and Technology</div>
+      <h3><a href="https://dl.acm.org/doi/abs/10.1145/3841471">Self-supervised Causal Effects Estimation</a></h3>
+      <p>Xinshu Li, <strong>Shiyi Yang</strong>, Venus Haghighi, Ghazal Lalooha, Ziqi Xu, Feng Xia, Quan Z Sheng, Lina Yao</p>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-thumb">
       <span>KDD<br>2026</span>
     </div>
     <div class="publication-body">
