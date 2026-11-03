@@ -56,7 +56,7 @@ Looking forward, I aim to develop trustworthy AI systems that can reliably opera
 
 {% include publication-list.html selected_only=true %}
 
-<p><a href="{{ '/publications/' | relative_url }}">View all publications &rarr;</a></p>
+<p><a href="{{ site.author.googlescholar | escape }}">View all publications &rarr;</a></p>
 
 
 ## Selected Awards & Honors
