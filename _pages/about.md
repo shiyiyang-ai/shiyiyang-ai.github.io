@@ -14,9 +14,9 @@ permalink: /
 
 ## Research Interests
 
-- **Safety and Reliability of LLM-based Agents**
-- **Security and Robustness of Recommender Systems**
-- **Causal Inference and Planning**
+- **LLM-Based Agents** (safety and reliability)
+- **Recommender Systems** (security and robustness)
+- **Causal Inference** (applications to reasoning and planning)
 
 ## Research Vision
 
