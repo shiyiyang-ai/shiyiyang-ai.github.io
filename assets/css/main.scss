@@ -223,6 +223,25 @@ body {
   border-bottom: 1px solid #f0ded7;
 }
 
+.publication-item--illustrated {
+  grid-template-columns: clamp(150px, 27%, 220px) minmax(0, 1fr);
+}
+
+.publication-figure {
+  display: block;
+  align-self: center;
+  min-width: 0;
+  cursor: zoom-in;
+}
+
+.publication-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 10rem;
+  object-fit: contain;
+}
+
 .publication-item:last-child {
   border-bottom: 0;
 }
