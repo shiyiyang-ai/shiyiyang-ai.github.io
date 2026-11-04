@@ -277,8 +277,12 @@ body {
 
 .publication-item--journal .publication-venue {
   margin: 0.35rem 0 0;
-  color: #000000;
+  color: inherit;
   font-weight: 700;
+}
+
+.page__content .publication-more {
+  margin-top: 1.5rem;
 }
 
 .publication-venue span {
