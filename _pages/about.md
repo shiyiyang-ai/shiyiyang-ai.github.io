@@ -16,7 +16,7 @@ permalink: /
 
 - **LLM-Based Agents** (safety and reliability)
 - **Recommender Systems** (security and robustness)
-- **Causal Inference** (applications to reasoning and planning)
+- **Causal Inference** (reasoning and planning)
 
 ## Research Vision
 
